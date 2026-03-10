@@ -183,11 +183,11 @@ Neste Na Prática, você vai ver como uma empresa de comunicação regional impl
 
 Para ampliar o seu conhecimento a respeito desse assunto, veja abaixo as sugestões do professor:
 
-## Manual de Comunicação da Secom – Estilos
+#### Manual de Comunicação da Secom – Estilos
 
 Segundo o Manual de Comunicação do Senado Federal, conforme as diretrizes atuais de uso do hífen, palavras compostas ligadas por preposição passaram a ser grafadas sem hífen, como em “mão de obra”, “dia a dia” e “calcanhar de Aquiles”; a norma busca conferir clareza e naturalidade à escrita ao privilegiar a forma separada nesses contextos relativamente frequentes.
 
-## Uma visão tranquila e científica do novo Acordo Ortográfico
+####  Uma visão tranquila e científica do novo Acordo Ortográfico
 
 No texto “Uma visão tranquila e científica do novo Acordo Ortográfico”, o linguista Evanildo Bechara propõe uma reflexão serena e acessível sobre as críticas ao Acordo Ortográfico de 1990, articulando argumentos que buscam desfazer equívocos e apresentar a filosofia por trás das mudanças adotadas pelas nações lusófonas. O autor remete ao histórico dos sistemas ortográficos vigentes no Brasil e em Portugal (o de 1943 e o de 1945) para mostrar que o Acordo não se propôs a uma reforma radical de toda a língua, mas apenas a harmonizar os pontos de divergência entre esses sistemas. Ao destacar que as formas não conflitantes não foram objeto de debate, Bechara reforça a ideia de que se trata de um acordo, e não de uma reforma profunda, convidando o leitor a reavaliar críticas precipitadas com base em visões equilibradas e cientificamente fundamentadas.
 

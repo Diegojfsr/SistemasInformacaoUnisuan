@@ -14,7 +14,6 @@ Bons estudos.
 - Analisar diferentes concepções de gramática e suas implicações no ensino.
 - Compreender a integração entre gramática ao de produção de texto e de vocabulário.
 
-Conteúdo concluído
 
 ## Desafio
 
@@ -114,7 +113,7 @@ No contexto do ensino superior, a leitura se destaca como uma ferramenta crucial
 
 Nesta Dica do Professor, você vai entender como o estudo da língua portuguesa é fundamental para a trajetória acadêmica, contribuindo à aprendizagem e à produção de conhecimento nas mais diversas disciplinas.
 
-Conteúdo concluído
+
 
 ## Exercícios
 
@@ -218,15 +217,15 @@ Neste Na Prática, você vai acompanhar o caso de uma estudante que lidou com di
 
 Para ampliar o seu conhecimento a respeito desse assunto, veja abaixo as sugestões do professor:
 
-## Letramento acadêmico em um curso de pedagogia a distância: percepções de estudantes sobre as propostas de escrita
+#### Letramento acadêmico em um curso de pedagogia a distância: percepções de estudantes sobre as propostas de escrita
 
 Este artigo investiga as percepções de estudantes de um curso de pedagogia na modalidade a distância sobre as propostas de escrita acadêmica em sua formação. A pesquisa adota uma abordagem qualitativa e está fundamentada nos Novos Estudos do Letramento, focalizando as práticas de escrita no contexto universitário.
 
-## A escrita acadêmica em cursos de licenciaturas: o que dizem os professores
+#### A escrita acadêmica em cursos de licenciaturas: o que dizem os professores
 
 Este artigo busca compreender como os professores exercem seu papel no processo de letramento acadêmico de seus estudantes. Para isso, foram analisadas respostas a entrevistas semiestruturadas com dois professores de cursos de licenciatura em uma universidade pública.
 
-## Português: práticas de leitura e escrita
+#### Português: práticas de leitura e escrita
 
 O Capítulo 6 (“Práticas de leitura e escrita a partir de gêneros profissionais”) desta obra trata da importância da eficácia comunicacional e da formalidade e/ou informalidade na redação de textos do contexto profissional. Explora, ainda, a finalidade, a estrutura e a caracterização dos principais gêneros textuais que circulam no mundo do trabalho – currículo, cartas em geral, relatórios, atas, ofícios, requerimentos e tantos outros.
 
