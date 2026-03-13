@@ -194,3 +194,26 @@ Neste vídeo, você vai ver a diferença entre linguagem formal e informal, apre
 Veja, neste estudo, algumas considerações a respeito do uso e da aplicação dos termos norma culta e norma-padrão em artigos publicados no campo da linguística, observando se os termos também influenciam o ensino de língua materna.
 
 
+### REFERÊNCIAS BIBLIOGRÁFICAS E CRÉDITOS DE IMAGENS
+
+BAGNO, M. Preconceito linguístico: o que é, como se faz. 53. ed. São Paulo: Edições
+Loyola, 2007.
+BORTONI-RICARDO, S. M. O professor de língua materna: entre a gramática e a linguística.
+São Paulo: Parábola Editorial, 2004.
+LEITE, M. Q. Português culto e popular: entrelaçamentos. In: SIMPÓSIO DE ESTUDOS
+SOBRE LINGUAGEM E ENSINO DE PORTUGUÊS – SIMELP, 2008, São Paulo. Anais [...].
+São Paulo: USP/FFLCH/SIMELP, 2008. Disponível em:
+https://simelp.fflch.usp.br/sites/simelp.fflch.usp.br/files/inline-files/S1807.pdf. Acesso em: 23 jul.
+2025.
+MARCUSCHI, L. M. Da fala para a escrita: atividades de retextualização. São Paulo: Cortez,
+2001.
+SILVA, J. U.; GRANDO, R. K. Norma culta ou norma-padrão? Eis a questão: uma
+metapesquisa sobre os termos em artigos de linguística alocados na Scielo. Trabalho de
+Conclusão de Curso (Graduação em Letras) – Universidade Estadual do Centro-Oeste –
+UNICENTRO, Irati, 2023. Disponível em:
+https://sguweb.unicentro.br/app/webroot/arquivos/atsubmissao/Jeferson_Vers_o_Final.pdf.
+Acesso em: 23 jul. 2025.
+TRAVAGLIA, L. C. Gramática e interação: uma proposta para o ensino de gramática no 1º e
+2º graus. São Paulo: Cortez, 2009.
+Bancos gratuitos de imagens e Shutterstock.
+SAGAH, 2025.
