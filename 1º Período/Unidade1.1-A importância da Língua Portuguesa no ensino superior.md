@@ -230,3 +230,28 @@ Este artigo busca compreender como os professores exercem seu papel no processo 
 O Capítulo 6 (“Práticas de leitura e escrita a partir de gêneros profissionais”) desta obra trata da importância da eficácia comunicacional e da formalidade e/ou informalidade na redação de textos do contexto profissional. Explora, ainda, a finalidade, a estrutura e a caracterização dos principais gêneros textuais que circulam no mundo do trabalho – currículo, cartas em geral, relatórios, atas, ofícios, requerimentos e tantos outros.
 
 
+## REFERÊNCIAS BIBLIOGRÁFICAS E CRÉDITOS DE IMAGENS
+
+AZEVEDO, R. Fundamentos de português. Porto Alegre: Penso, 2015. 
+
+FEHLAUER, P. Aprender a ler, aprender a escrever, aprender a viver. Folha de S.Paulo, São
+Paulo, 2023. Disponível em: https://www1.folha.uol.com.br/opiniao/2023/12/aprender-a-leraprender-a-escrever-aprender-a-viver.shtml. Acesso em: 14 maio 2025.
+
+HENRIQUES, A. A escrita acadêmica como experiência estudiosa na universidade. Revista
+Brasileira de Educação, v. 30, e300009, 2025.
+
+JORNAL HOJE. Erros de português prejudicam candidatos na busca por emprego. Jornal Hoje, 2012. Disponível em: http://g1.globo.com/jornal-hoje/noticia/2012/09/erros-de-portuguesprejudicam-candidatos-na-busca-por-emprego.html. Acesso em: 18 dez. 2014.
+
+LÊDO, A. C. O.; BEZERRA, B. G.; PEREIRA, M. L. S. O ensino de gêneros na perspectiva dos
+letramentos acadêmicos: a resenha no curso de letras. Fórum Linguístico, v. 19, n. 4, p. 8470-8488, 2022.
+
+LOQUE, F. F. Uma curta introdução à escrita acadêmica e ao trabalho acadêmico. Revista Digital de Ensino de Filosofia – REFilo, v. 10, n. 1, 2024.
+
+VIANA, C. Escrever é sobretudo comunicar. Revista Língua Portuguesa, 2013. Disponível em:
+http://revistalingua.uol.com.br/textos/blog-ponta/escrever-e-sobretudo-comunicar-298186-1.asp. Acesso em: 18 nov. 2014.
+
+Bancos gratuitos de imagens e Shutterstock.
+
+SAGAH, 2025.
+
+
