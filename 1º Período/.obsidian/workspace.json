@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unidade1.2-O novo acordo ortográfico.md",
+                "file": "Unidade1.3-Níveis de linguagem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unidade1.2-O novo acordo ortográfico"
+              "title": "Unidade1.3-Níveis de linguagem"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unidade1.2-O novo acordo ortográfico.md",
+                "file": "Unidade1.3-Níveis de linguagem.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Unidade1.2-O novo acordo ortográfico"
+              "title": "Sumário de Unidade1.3-Níveis de linguagem"
             }
           },
           {
@@ -169,8 +169,8 @@
   },
   "active": "1d2e0d7d6f80e2d7",
   "lastOpenFiles": [
-    "Unidade1.3-Níveis de linguagem.md",
     "Unidade1.2-O novo acordo ortográfico.md",
+    "Unidade1.3-Níveis de linguagem.md",
     "Unidade1.1-A importância da Língua Portuguesa no ensino superior.md",
     "Leitura e Produção de Textos",
     "05.Node.js Crypto Complete Reference/31.Node.js decipher.final() Method.md",
