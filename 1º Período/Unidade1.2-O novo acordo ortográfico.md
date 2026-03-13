@@ -192,5 +192,36 @@ Segundo o Manual de Comunicação do Senado Federal, conforme as diretrizes atua
 No texto “Uma visão tranquila e científica do novo Acordo Ortográfico”, o linguista Evanildo Bechara propõe uma reflexão serena e acessível sobre as críticas ao Acordo Ortográfico de 1990, articulando argumentos que buscam desfazer equívocos e apresentar a filosofia por trás das mudanças adotadas pelas nações lusófonas. O autor remete ao histórico dos sistemas ortográficos vigentes no Brasil e em Portugal (o de 1943 e o de 1945) para mostrar que o Acordo não se propôs a uma reforma radical de toda a língua, mas apenas a harmonizar os pontos de divergência entre esses sistemas. Ao destacar que as formas não conflitantes não foram objeto de debate, Bechara reforça a ideia de que se trata de um acordo, e não de uma reforma profunda, convidando o leitor a reavaliar críticas precipitadas com base em visões equilibradas e cientificamente fundamentadas.
 
 
+## REFERÊNCIAS BIBLIOGRÁFICAS E CRÉDITOS DE IMAGENS 
+
+ACORDO Ortográfico da Língua Portuguesa e outra legislação. DGE, 2011. Disponível em: https://www.dge.mec.pt/acordos-ortograficos-e-outra-legislacao. Acesso em: 16 set. 2025.
+
+ACORDO ortográfico: regras, exemplos e contexto. Dicio. Disponível em: https://www.dicio.com.br/acordo-ortografico-regras-exemplos-contexto/. Acesso em: 25 ago. 2025.
+
+ALMEIDA, L. F.; SILVA, M. C. O Acordo Ortográfico da Língua Portuguesa: debates, desafios e impactos na prática docente. Revista Philologus, v. 26, n. 77, p. 253-266, 2020.
+
+COMUNIDADE DOS PAÍSES DE LÍNGUA PORTUGUESA. Acordo Ortográfico da Língua Portuguesa. Lisboa, 1990. Disponível em: http://www.cplp.org/Files/Filer/cplp/Acordos/maisAcordos/AcordoOrtogrLinguaPortug.pdf. Acesso em: 24 set. 2025.
+
+CUNHA, M. H. M. N. As mudanças ortográficas e seu impacto na norma culta do português. Revista da Academia Paulista de Letras, v. 1, n. 2, p. 45-59, 2021.
+
+GRAMÁTICA e ortografia: fundamentos e exemplos. Dicio. Disponível em: https://www.dicio.com.br/. Acesso em: 25 ago. 2025.
+
+GUIA rápido do novo acordo ortográfico. Português.com.br. Disponível em: https://www.portugues.com.br/gramatica/guia-rapido-novo-acordo-ortografico.html. Acesso em: 25 ago. 2025.
+
+INSTITUTO INTERNACIONAL DA LÍNGUA PORTUGUESA. Vocabulário Ortográfico Comum da Língua Portuguesa. Disponível em: https://voc.cplp.org/. Acesso em: 24 set. 2025.
+
+KUNZLER, J. A comunicação de marca na era da transformação digital. Revista Comunicando, v. 11, n. 1, p. 118-132, 2022.
+
+MÉGRET, A.; PINHO, L. Promoção e difusão da língua portuguesa como projeto regional Parte II – O IILP/CPLP na visão da política externa brasileira. Observatório de Regionalismo, 2 maio 2023. Disponível em: https://observatorio.repri.org/2023/05/02/iilp-cplp-parte2/. Acesso em: 24 set. 2025.
+
+QUE D'ORSI, C. O. A Comunidade dos Países de Língua Portuguesa (CPLP) como instrumento de política externa e projeção de poder. In: ENCONTRO NACIONAL DA ASSOCIAÇÃO BRASILEIRA DE RELAÇÕES INTERNACIONAIS, 9., 2023, Uberlândia. Anais [...]. Uberlândia: UFU, 2023. p. 1-20.
+
+SANTOS, J. A. O Acordo Ortográfico da Língua Portuguesa e a internacionalização do idioma. Revista da ABRALIN, v. 18, n. 2, p. 11-30, 2019.
+
+TRAVAGLIA, L. C. Gramática e interação: uma proposta para o ensino de gramática. 3. ed. rev. e atual. Campinas: Cortez, 2022.
+
+Bancos gratuitos de imagens e Shutterstock. 
+
+SAGAH, 2025.
 
 
