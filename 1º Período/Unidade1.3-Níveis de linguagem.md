@@ -14,7 +14,6 @@ Bons estudos.
 - Identificar os contextos de uso da língua culta e da língua popular.
 - Reconhecer a necessidade do uso de cada uma das modalidades das línguas culta e popular de acordo com os seus contextos.
 
-Conteúdo concluído
 
 ## Desafio
 
@@ -26,8 +25,34 @@ Nesse sentido, veja a situação a seguir.
 
 Diante do exposto, elabore três versões concisas da explicação da regra de uso da vírgula para isolar o vocativo, adaptadas para cada um dos três públicos indicados. Em seguida, justifique como e por que o nível de linguagem foi ajustado em cada caso.
 
+#### Padrão de resposta esperado
+
+Estudantes do ensino fundamental II:  
+"Quando chamamos alguém numa frase, usamos vírgula. Ex.: 'João, vem aqui!’" — linguagem informal e acessível para facilitar a compreensão.
+
+Professores de diferentes áreas:  
+"O vocativo deve ser isolado por vírgulas. Ex.: ‘Colegas, precisamos revisar o plano de aula.’" — uso moderado de termos técnicos, com foco na norma culta e na objetividade.
+
+Pais e responsáveis:  
+"Quando chamamos alguém numa frase, usamos vírgulas para deixar a frase mais clara. Ex.: ‘Senhores pais, agradecemos a presença.’" — linguagem formal, clara e acolhedora, adequada ao público leigo.
 
 
+####  ✅ Resposta ao desafio:
+
+Irei organizar três versões da explicação sobre o uso da vírgula para isolar o vocativo, adaptadas para cada público.
+1. Estudantes do Ensino Fundamental
+Explicação: “A vírgula serve para separar o vocativo, que é quando chamamos ou nos dirigimos a alguém. Exemplo: Maria, venha aqui. A vírgula mostra que estamos falando diretamente com a pessoa.”
+
+Justificativa: Estudantes do Fundamental: linguagem simples, direta e com exemplos cotidianos. O objetivo é facilitar a compreensão sem termos técnicos.
+
+2. Equipe Pedagógica de Professores
+Explicação: “No uso da vírgula, uma das funções sintáticas é isolar o vocativo, ou seja, o termo que indica a quem o enunciado se dirige. Exemplo: Colegas, precisamos revisar o planejamento. Esse isolamento garante clareza na comunicação.”
+Justificativa: O uso de termos técnicos da gramática (função sintática, vocativo, enunciado) porque são profissionais da educação e têm familiaridade com conceitos linguísticos.
+
+3. Pais e Responsáveis em Reunião Escolar
+Explicação: “A vírgula também é usada para separar o vocativo, que é a forma de chamar ou dirigir-se a alguém. Exemplo: Senhores pais, agradecemos a presença. Assim, fica claro que estamos falando diretamente com vocês.”
+
+Justificativa: A linguagem respeitosa e clara, sem excesso de tecnicismo, mas com exemplos formais que se aproximam do contexto escolar.
 
 
 
@@ -41,7 +66,7 @@ Neste Infográfico, você vai ver as principais características das modalidades
 
 ![Descrição da imagem não disponível](https://creator-files.plataforma.grupoa.education/learning-object/21671/10860_EDU_INF_V0-2025-08-20T15:11:35-03:00.png)
 
-Conteúdo concluído
+
 
 ## Conteúdo do Livro
 
@@ -55,7 +80,7 @@ Boa leitura.
 
 ![Descrição da imagem não disponível](https://statics-marketplace.plataforma.grupoa.education/sagah/4156d03d-7f06-4e34-a258-d06e567cc9e8/baa9c3cd-26a1-409a-8f00-c36490d77e2a.jpg)
 
-Conteúdo concluído
+
 
 ## Dica do Professor
 
@@ -67,54 +92,79 @@ Nesta Dica do Professor, você vai estudar os níveis de linguagem, com foco na 
 
 ​​​​​​​
 
-Conteúdo concluído
-
 ## Exercícios
 
-### Questão 1
-
----
-
-**A variação linguística é um fenômeno natural da língua portuguesa e reflete diferentes contextos de uso. A modalidade falada é marcada pela espontaneidade, já a linguagem culta segue normas formais. A linguagem popular, por sua vez, é marcada pela informalidade e pela adequação ao uso cotidiano, mesmo que não obedeça rigorosamente às regras gramaticais.**
-
-**Observe as afirmações a seguir:  
-  
+#### Questão 1
+A variação linguística é um fenômeno natural da língua portuguesa e reflete diferentes contextos de uso. A modalidade falada é marcada pela espontaneidade, já a linguagem culta segue normas formais. A linguagem popular, por sua vez, é marcada pela informalidade e pela adequação ao uso cotidiano, mesmo que não obedeça rigorosamente às regras gramaticais.
+Observe as afirmações a seguir:
 I) A língua falada é mais livre e espontânea, pois reflete o contato direto entre os falantes.  
 II) A linguagem culta tem o objetivo de refletir o índice de cultura a que todos devem chegar.  
-III) A linguagem popular é utilizada no dia a dia e não obedece rigidamente às normas gramaticais.**
+III) A linguagem popular é utilizada no dia a dia e não obedece rigidamente às normas gramaticais.
+Assinale a alternativa correta:
 
-**Assinale a alternativa correta:**
+a. Estão corretas I e III.
+b. Estão corretas I e II.
+c. Estão corretas II e III.
+d. Somente III está correta.
+e. Somente I está correta.
 
-  
+✅ Portanto, a alternativa correta é: a) Estão corretas I e III.
 
+#### Questão 2
+As variações linguísticas refletem aspectos sociais, culturais e regionais dos falantes. Compreender tais variações favorece a inclusão, valoriza a diversidade e promove uma comunicação respeitosa em diferentes contextos.
+Ao ouvir a fala dos indivíduos, podem-se identificar diferenças que se apoiam em certo conhecimento de mundo. Essas diferenças podem ser identificadas como `_____________________________` e estão relacionadas ao contexto ou meio no qual os sujeitos se encontram. Há, ainda, as características regionais e sociais que definem essas diferenças. É possível observar diferenças geracionais na fala dos indivíduos, levando as gerações mais jovens a criar expressões por diferentes motivos, como caracterizar um grupo ao qual pertençam, por exemplo. As`_____________`, segundo Camacho (2004), “são criações de neologismos por força expressiva”. Diante dessa diversidade, é importante saber interagir com  interlocutores adequadamente, sem que se faça da língua um recurso para a exclusão social, daí a importância `________________________.`
+Assinale a alternativa que completa corretamente as lacunas no texto acima:
 Selecione a resposta:
+a. Variedades diatópicas; linguagens contextuais; do domínio da norma culta.
+b. Variações linguísticas; gírias; da consciência linguística.
+c. Linguagens contextuais; expressões regionais; do conhecimento das linguagens.
+d. Variedades linguísticas; formas coloquiais; da consciência fonológica.
+e. Diversidade linguística; falas coloquiais; da consciência da norma culta da língua.
 
-- a
-    
-    Estão corretas I e III.
-    
+✅ Portanto, a alternativa correta é: b) Variações linguísticas; gírias; da consciência linguística.
 
-- b
-    
-    Estão corretas I e II.
-    
+#### Questão 3
+A norma-padrão é a variedade linguística utilizada em contextos formais e institucionais. Sua identificação requer domínio das regras gramaticais, como concordância e regência, sendo peça-chave na produção e análise de textos formais.
+Assinale a alternativa em que a oração foi construída de acordo com a norma-padrão:
+Selecione a resposta:
+a. "Paramos um instante; naquele momento, a gente começou a achar que tinha algo muito errado acontecendo."
+b. "Como você está, meu amigo? Passa aqui mais tarde pra gente conversar com mais calma!"
+c. "Nós estávamos achando tudo aquilo um horror. Nada fazia sentido naquela confusão."
+d. "Me passaram o horário errado de saída do trem."
+e. "Cara, seu filho tá fazendo tudo errado e você vai acabar se ferrando por causa disso."
 
-- c
-    
-    Estão corretas II e III.
-    
+✅ Assim, a alternativa correta é: a. "Paramos um instante; naquele momento, a gente começou a achar que tinha algo muito errado acontecendo."
 
-- d
-    
-    Somente III está correta.
-    
+#### Questão 4
+A norma-padrão da língua portuguesa é o registro utilizado em situações formais de comunicação, orientado por regras gramaticais que garantem clareza e precisão. Reconhecer frases estruturadas de acordo com essa modalidade é essencial para produzir textos acadêmicos, jurídicos e institucionais.
+Qual das frases abaixo está construída segundo a norma-padrão?
+Selecione a resposta:
+a. "O documento foi entregue para mim revisar ontem à tarde."
+b. "A aluna apresentou o trabalho conforme o prazo estabelecido pela professora."
+c. "O chefe pediu pra gente resolver logo esse problema."
+d. "O livro que eu mais gosto é aquele que tu me deu no meu aniversário."
+e. "Eles tava esperando na porta desde cedo."
 
-- e
-    
-    Somente I está correta.
-    
+✅ Portanto, a alternativa correta é: b. "A aluna apresentou o trabalho conforme o prazo estabelecido pela professora."
 
-1 de 5 perguntas
+
+#### Questão 5
+A escolha da modalidade linguística está relacionada ao contexto e ao nível de formalidade. Interações informais permitem o uso da linguagem coloquial, já situações formais requerem a modalidade culta, de acordo com as normas gramaticais e convenções sociais.
+Considere os seguintes contextos de comunicação:
+I) Uma pequena mensagem de celular para um amigo próximo.
+II) Uma conversa entre amigos na praça.
+III) Uma conferência nacional sobre meio ambiente.
+IV) Uma carta de reclamação ao presidente da República.
+As modalidades da língua mais adequadas à comunicação em cada contexto, respectivamente, são:
+Selecione a resposta:
+a. Culta, culta, coloquial e coloquial.
+b. Culta, coloquial, coloquial e culta.
+c. Coloquial, culta, coloquial e culta.
+d. A modalidade coloquial pode ser utilizada em todos os contextos.
+e. Coloquial, coloquial, culta e culta.
+
+✅ Portanto, a alternativa correta é: e. Coloquial, coloquial, culta e culta.
+
 
 ## Na prática
 
@@ -126,20 +176,21 @@ Neste Na Prática, você vai ver como a escolha entre linguagem formal e informa
 
 **![Descrição da imagem não disponível](https://creator-files.plataforma.grupoa.education/learning-object/21675/capa-2025-08-20T15:12:01-03:00.png)**
 
-Conteúdo concluído
 
 ## Saiba mais
 
 Para ampliar o seu conhecimento a respeito desse assunto, veja abaixo as sugestões do professor:
 
-## Português culto e popular: entrelaçamentos
+#### Português culto e popular: entrelaçamentos
 
 Veja, neste artigo, algumas reflexões a respeito da relação entre os registros culto e popular que caracterizam a variedade brasileira do português.
 
-## Linguagem formal e informal: qual é a diferença?
+#### Linguagem formal e informal: qual é a diferença?
 
 Neste vídeo, você vai ver a diferença entre linguagem formal e informal, apresentando o que caracteriza cada uma, como utilizá-las adequadamente e também os conceitos de linguagem culta e coloquial.
 
-## Norma culta ou norma padrão? Eis a questão: uma metapesquisa sobre os termos em artigos e linguística alocados na Scielo
+#### Norma culta ou norma padrão? Eis a questão: uma metapesquisa sobre os termos em artigos e linguística alocados na Scielo
 
 Veja, neste estudo, algumas considerações a respeito do uso e da aplicação dos termos norma culta e norma-padrão em artigos publicados no campo da linguística, observando se os termos também influenciam o ensino de língua materna.
+
+
