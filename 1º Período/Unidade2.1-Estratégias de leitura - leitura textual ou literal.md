@@ -244,3 +244,33 @@ A capacidade de ler não se limita a decodificar palavras em uma página; trata-
 Neste artigo, acompanhe uma pesquisa que analisa, com base na linguística textual, as perguntas de compreensão em seções de um livro didático de língua portuguesa, aprovado pelo Programa Nacional do Livro e do Material Didático (PNLD) para o 6º ano, entre 2017 e 2019. Você vai confirmar que os resultados indicam um foco nas compreensões literal e inferencial, com poucas questões que estimulam a crítica e a integração com o contexto extralinguístico.
 
 
+## REFERÊNCIAS BIBLIOGRÁFICAS E CRÉDITOS DE IMAGENS
+
+BRASILEIRO, A. M. M. Leitura e produção textual. Porto Alegre: Penso, 2016.
+
+CARA, D. As lições da Finlândia para o Brasil. Revista Educação, 24 maio 2013.
+Disponível em: https://revistaeducacao.com.br/2013/05/24/as-licoes-da-finlandia-para-obrasil/. Acesso em: 10 fev. 2015.
+
+FREIRE, N. P.; LOURENÇÃO, L. G. Menos Face, mais Books: a importância da leitura
+para a saúde mental dos adolescentes. Ciência & Saúde Coletiva, v. 29, n. 9, p. 1-3,
+2024.
+
+HOMEM morre baleado dentro de agência bancária no Rio. R7 Notícias, 2 jan. 2015.
+Disponível em: https://noticias.r7.com/rio-de-janeiro/homem-morre-baleado-dentro-deagencia-bancaria-no-rio-03012015. Acesso em: 11 fev. 2015.
+
+KATO, M. O aprendizado da leitura. 3. ed. São Paulo: Martins Fontes, 2007.
+
+KLEIMAN, A. Oficina de leitura: teoria e prática. 9. ed. Campinas, SP: Pontes, 2002.
+
+MEGGIATO, A. et al. Fluência de leitura: influências do reconhecimento de palavras e da
+compreensão em estudantes do 5º ano do Ensino Fundamental. Educação, v. 50, n. 1, p.
+1-27, 2025.
+
+SOLÉ, I. Estratégias de leitura. 6. ed. Porto Alegre: Artmed, 2014.
+
+VIEIRA, A. Sermões. 2. ed. Rio de Janeiro: Agir, 1960.
+
+VIEIRA, A. Sermões escolhidos. São Paulo: Edameris, 1965. v. 2.
+
+Bancos gratuitos de imagens e Shutterstock. 
+SAGAH, 2025.
