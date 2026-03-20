@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Unidade4.2-Os modos de organização do discurso tipos textuais"
             }
+          },
+          {
+            "id": "b4f2b28c724a79df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leitura e Produção de Textos/Unidade4.3-Gêneros discursivos acadêmicos e científicos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unidade4.3-Gêneros discursivos acadêmicos e científicos"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leitura e Produção de Textos/Unidade4.2-Os modos de organização do discurso tipos textuais.md",
+                "file": "Leitura e Produção de Textos/Unidade4.3-Gêneros discursivos acadêmicos e científicos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Unidade4.2-Os modos de organização do discurso tipos textuais"
+              "title": "Sumário de Unidade4.3-Gêneros discursivos acadêmicos e científicos"
             }
           },
           {
@@ -196,10 +210,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "302e8950bbc2c612",
+  "active": "b4f2b28c724a79df",
   "lastOpenFiles": [
-    "Leitura e Produção de Textos/Unidade4.1-O texto como atividade de linguagem-interação.md",
     "Leitura e Produção de Textos/Unidade4.2-Os modos de organização do discurso tipos textuais.md",
+    "Leitura e Produção de Textos/Unidade4.3-Gêneros discursivos acadêmicos e científicos.md",
+    "Leitura e Produção de Textos/Unidade4.1-O texto como atividade de linguagem-interação.md",
     "Leitura e Produção de Textos/Unidade3.3-A coesão textual mecanismos de referenciação.md",
     "Leitura e Produção de Textos/Unidade3.2-Pontuação.md",
     "Leitura e Produção de Textos/Unidade3.1-A construção do parágrafo padrão.md",
@@ -224,7 +239,6 @@
     "05.Node.js Crypto Complete Reference/26.Node.js crypto.randomFill() Method.md",
     "05.Node.js Crypto Complete Reference/25.Node.js crypto.randomFillSync() Method.md",
     "05.Node.js Crypto Complete Reference/24.Node.js crypto.generateKeyPairSync() Method.md",
-    "05.Node.js Crypto Complete Reference/23.Node.js crypto.publicEncrypt() Method.md",
     "24.Node.js Zlib Complete Reference",
     "23.Node.js VM Complete Reference",
     "22.Node.js V8 Complete Reference",
