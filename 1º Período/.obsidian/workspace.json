@@ -4,67 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "a730844ea3da8e40",
+        "id": "f28bb0b6da0c3408",
         "type": "tabs",
         "children": [
           {
-            "id": "7342732ac8b16bd5",
+            "id": "0b5dd22e48af2b6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos Computacionais/Unidade2.2-Componentes de hardware e software do PC.md",
+                "file": "Fundamentos Computacionais/Unidade4.1-Tecnologias de entrada, saída e armazenamento de dados I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unidade2.2-Componentes de hardware e software do PC"
+              "title": "Unidade4.1-Tecnologias de entrada, saída e armazenamento de dados I"
             }
           },
           {
-            "id": "9af5306d4b2f2ba7",
+            "id": "b38e7fdd320069ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos Computacionais/Unidade3.1-Representações de dados e aritmética de computadores.md",
+                "file": "Fundamentos Computacionais/Unidade4.2-Tecnologias de entrada, saída e armazenamento de dados II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unidade3.1-Representações de dados e aritmética de computadores"
+              "title": "Unidade4.2-Tecnologias de entrada, saída e armazenamento de dados II"
             }
           },
           {
-            "id": "1911cf43bdb1f574",
+            "id": "23379bc3fe74eea9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos Computacionais/Unidade3.2-Conversão de bases numéricas.md",
+                "file": "Fundamentos Computacionais/Unidade1.1-Sistemas de computador.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unidade3.2-Conversão de bases numéricas"
-            }
-          },
-          {
-            "id": "33dfe7ae00b9e26d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fundamentos Computacionais/Unidade3.3-Modelos de programação.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unidade3.3-Modelos de programação"
+              "title": "Unidade1.1-Sistemas de computador"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos Computacionais/Unidade3.3-Modelos de programação.md",
+                "file": "Fundamentos Computacionais/Unidade1.1-Sistemas de computador.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Unidade3.3-Modelos de programação"
+              "title": "Sumário de Unidade1.1-Sistemas de computador"
             }
           },
           {
@@ -210,10 +196,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "33dfe7ae00b9e26d",
+  "active": "23379bc3fe74eea9",
   "lastOpenFiles": [
-    "Fundamentos Computacionais/Unidade3.1-Representações de dados e aritmética de computadores.md",
+    "Fundamentos Computacionais/Unidade4.3-Desafios éticos, sociais e de segurança da tecnologia de informação.md",
+    "Fundamentos Computacionais/Pasted image 20260331195640.png",
+    "Fundamentos Computacionais/Unidade4.2-Tecnologias de entrada, saída e armazenamento de dados II.md",
+    "Fundamentos Computacionais/Pasted image 20260331195318.png",
+    "Fundamentos Computacionais/Unidade4.1-Tecnologias de entrada, saída e armazenamento de dados I.md",
     "Fundamentos Computacionais/Unidade3.3-Modelos de programação.md",
+    "Fundamentos Computacionais/Unidade3.1-Representações de dados e aritmética de computadores.md",
     "Fundamentos Computacionais/Unidade3.2-Conversão de bases numéricas.md",
     "Fundamentos Computacionais/Unidade2.2-Componentes de hardware e software do PC.md",
     "Fundamentos Computacionais/Unidade2.1-Os principais componentes de um computador.md",
@@ -235,10 +226,6 @@
     "Leitura e Produção de Textos/Unidade1.3-Níveis de linguagem.md",
     "Leitura e Produção de Textos/Unidade1.2-O novo acordo ortográfico.md",
     "Unidade2.3-Estratégias de leitura - Texto e intertextualidade.md",
-    "Unidade2.1-Estratégias de leitura - leitura textual ou literal.md",
-    "Unidade1.1-A importância da Língua Portuguesa no ensino superior.md",
-    "Unidade1.3-Níveis de linguagem.md",
-    "Unidade1.2-O novo acordo ortográfico.md",
     "Leitura e Produção de Textos",
     "24.Node.js Zlib Complete Reference",
     "23.Node.js VM Complete Reference",
