@@ -218,13 +218,16 @@ RAMAKRISHNAN, Raghu; GEHRKE, Jahannes. Sistemas de Gerenciamento de
 Banco de Dados. 3ª Ed. Porto Alegre. McGraw Hill/Bookman. 2011.
 SAGAH, 2014.
 
+
+
+#### EQUIPE SAGAH
+
 Coordenador(a) de Curso
 Alexandre Baroni
 
 Professor(a)
 Mauricio S. de Barros
 
-#### EQUIPE SAGAH
 Gerente
 Rodrigo Severo
 
