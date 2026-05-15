@@ -18,10 +18,11 @@ Bons estudos.
 ## Desafio
 
 O avanço das tecnologias digitais transformou profundamente os ambientes de trabalho, tornando inevitável a presença de dispositivos eletrônicos como smartphones, tablets e notebooks no cotidiano das organizações. Esses recursos ampliaram a mobilidade e a produtividade, mas também trouxeram novos riscos relacionados à segurança da informação e à proteção de dados corporativos. O uso inadequado desses equipamentos pode favorecer a ocorrência de vazamentos de informações estratégicas, colocando em risco a competitividade das empresas e sua reputação no mercado (Stallings, 2019). Nesse cenário, surge a necessidade de equilibrar os benefícios da tecnologia com práticas de controle, conscientização e normas claras de utilização no ambiente organizacional.
-Neste contexto, confira a situação a seguir.
-A imagem a seguir possui audiodescrição.   
 
-![[Pasted image 20260331195318.png]]
+Neste contexto, confira a situação a seguir.
+
+
+![](https://creator-files.plataforma.grupoa.education/learning-object/103398/8904_EXA_DES_V2-2025-10-14T17:15:04-03:00.png)
 
 Diante desse cenário, quais ações você implementaria para eliminar ou pelo menos dificultar esse tipo de situação? Cite pelo menos três ações práticas.
 
@@ -54,8 +55,7 @@ De forma mais específica, os crimes em informática englobam desde o furto de i
 
 Neste Infográfico, você vai ver os principais tipos de crimes cibernéticos que ocorrem no ambiente digital, organizados de forma clara e objetiva. 
 
-![[Pasted image 20260331195640.png]]
-
+![](https://creator-files.plataforma.grupoa.education/learning-object/103399/8904_EXA_INF_V2-2025-10-14T17:15:23-03:00.png)
 
 
 ## Conteúdo do Livro
