@@ -1,84 +1,37 @@
 {
   "main": {
-    "id": "a8017cc2ee0e9476",
+    "id": "f371c44a3d60f85c",
     "type": "split",
     "children": [
       {
-        "id": "2ffb325f036499ce",
+        "id": "14f1c6a16335fbdc",
         "type": "tabs",
         "children": [
           {
-            "id": "aaf43947a7929847",
+            "id": "67495af8eaad66ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modelagem e Desenvolvimento de Banco de Dados/Unidade1.1-Compreender os conceitos, funcionamento e funções dos Gerenciadores de Banco de Dados.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Unidade1.1-Compreender os conceitos, funcionamento e funções dos Gerenciadores de Banco de Dados"
-            }
-          },
-          {
-            "id": "e37de4aa0f915b34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modelagem e Desenvolvimento de Banco de Dados/Unidade1.2-Sistemas Gerenciadores de Banco de Dados.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unidade1.2-Sistemas Gerenciadores de Banco de Dados"
-            }
-          },
-          {
-            "id": "3519a21543dbff42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modelagem e Desenvolvimento de Banco de Dados/Unidade1.3-Modelo Relacional.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unidade1.3-Modelo Relacional"
-            }
-          },
-          {
-            "id": "f565ab0a9524036d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modelagem e Desenvolvimento de Banco de Dados/Unidade1.4-Projeto de Banco de Dados.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unidade1.4-Projeto de Banco de Dados"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "95edef668b657176",
+    "id": "0f44f66a6508afd3",
     "type": "split",
     "children": [
       {
-        "id": "fd926b8554709dde",
+        "id": "f26d1e1ebcc2d07d",
         "type": "tabs",
         "children": [
           {
-            "id": "1b02efb55613b8a3",
+            "id": "487d2fee7e85ecac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -91,7 +44,7 @@
             }
           },
           {
-            "id": "fcf5211b07f910d2",
+            "id": "c66147b01c20a51c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -108,7 +61,7 @@
             }
           },
           {
-            "id": "2546ad1fa6d4380f",
+            "id": "0a480ff5f7d52d3d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -121,38 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 300
   },
   "right": {
-    "id": "1b77f82fc4207f64",
+    "id": "d0ae9624f9e01dc4",
     "type": "split",
     "children": [
       {
-        "id": "ed9588303afd4cca",
+        "id": "2b27b70ccd1f2be9",
         "type": "tabs",
         "children": [
           {
-            "id": "a29bd78191eb249e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Modelagem e Desenvolvimento de Banco de Dados/Unidade1.4-Projeto de Banco de Dados.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário de Unidade1.4-Projeto de Banco de Dados"
-            }
-          },
-          {
-            "id": "dbe9e1e4c0cb097a",
+            "id": "bd0825a06ce8d82c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Hooks/1️⃣ Fundamentos dos Hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,11 +99,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 1️⃣ Fundamentos dos Hooks"
+              "title": "Links inversos"
             }
           },
           {
-            "id": "433c1db50f655ade",
+            "id": "3cb56d3b2fe8c4a5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -179,7 +116,7 @@
             }
           },
           {
-            "id": "8683bbb36e1857f7",
+            "id": "9dd190bbe61675a3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -190,65 +127,55 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "09c4294972b1dd3d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "2136f5785e0bf939",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
     }
   },
-  "active": "f565ab0a9524036d",
-  "lastOpenFiles": [
-    "Modelagem e Desenvolvimento de Banco de Dados/Unidade1.3-Modelo Relacional.md",
-    "Modelagem e Desenvolvimento de Banco de Dados/Unidade1.4-Projeto de Banco de Dados.md",
-    "Modelagem e Desenvolvimento de Banco de Dados/Unidade1.2-Sistemas Gerenciadores de Banco de Dados.md",
-    "Modelagem e Desenvolvimento de Banco de Dados/Unidade1.1-Compreender os conceitos, funcionamento e funções dos Gerenciadores de Banco de Dados.md",
-    "Leitura e Produção de Textos/Unidade1.1-A importância da Língua Portuguesa no ensino superior.md",
-    "Leitura e Produção de Textos/Unidade3.3-A coesão textual mecanismos de referenciação.md",
-    "Modelagem e Desenvolvimento de Banco de Dados",
-    "Leitura e Produção de Textos/Unidade3.2-Pontuação.md",
-    "Leitura e Produção de Textos/Unidade3.1-A construção do parágrafo padrão.md",
-    "Leitura e Produção de Textos/Unidade2.3-Estratégias de leitura - Texto e intertextualidade.md",
-    "Leitura e Produção de Textos/Unidade2.2-Estratégias de leitura - texto e contexto.md",
-    "Leitura e Produção de Textos/Unidade2.1-Estratégias de leitura - leitura textual ou literal.md",
-    "Leitura e Produção de Textos/Unidade1.2-O novo acordo ortográfico.md",
-    "Fundamentos Computacionais/Pasted image 20260331195640.png",
-    "Fundamentos Computacionais/Pasted image 20260331195318.png",
-    "Fundamentos Computacionais/Unidade4.3-Desafios éticos, sociais e de segurança da tecnologia de informação.md",
-    "Fundamentos Computacionais/Unidade4.2-Tecnologias de entrada, saída e armazenamento de dados II.md",
-    "Fundamentos Computacionais/Unidade4.1-Tecnologias de entrada, saída e armazenamento de dados I.md",
-    "Fundamentos Computacionais/Unidade3.3-Modelos de programação.md",
-    "Fundamentos Computacionais/Unidade3.1-Representações de dados e aritmética de computadores.md",
-    "Fundamentos Computacionais/Unidade3.2-Conversão de bases numéricas.md",
-    "Fundamentos Computacionais/Unidade2.2-Componentes de hardware e software do PC.md",
-    "Fundamentos Computacionais/Unidade2.1-Os principais componentes de um computador.md",
-    "Fundamentos Computacionais/Unidade1.3-Software de sistema.md",
-    "Fundamentos Computacionais/Unidade1.2-Software de aplicação para usuários finais.md",
-    "Fundamentos Computacionais/Unidade1.1-Sistemas de computador.md",
-    "Leitura e Produção de Textos/Unidade4.3-Gêneros discursivos acadêmicos e científicos.md",
-    "Fundamentos Computacionais",
-    "Leitura e Produção de Textos/Unidade4.2-Os modos de organização do discurso tipos textuais.md",
-    "Leitura e Produção de Textos/Unidade4.1-O texto como atividade de linguagem-interação.md",
-    "Leitura e Produção de Textos",
-    "24.Node.js Zlib Complete Reference",
-    "23.Node.js VM Complete Reference",
-    "22.Node.js V8 Complete Reference",
-    "21.Node.js Utility Complete Reference",
-    "20.Node.js URL Complete Reference",
-    "19.Node.js UDP-DataGram Complete Reference",
-    "18.Node.js TLS-SSL Complete Reference"
-  ]
+  "active": "67495af8eaad66ff",
+  "lastOpenFiles": []
 }
